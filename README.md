@@ -28,8 +28,7 @@ I. Initially (Right after cloning the repository)
 1. Clone the repository on your local device
 2. Using the command line, navigate inside the root directory of the project
 
-This will be inside submission_reminder_app_cyuzuzo-aime, assuming that you didn't change the repository name
-3. Run the base script
+  3. Run the base script
 
 Inside the root directory, run ./create_environment.sh
 
